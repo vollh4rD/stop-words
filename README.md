@@ -11,6 +11,7 @@ Text summarization- excluding stop words from contributing to summarization scor
 **Determiners** – Determiners tend to mark nouns where a determiner usually will be followed by a noun
 **examples**: the, a, an, another
 **Coordinating conjunctions** – Coordinating conjunctions connect words, phrases, and clauses
+
 **examples**: for, an, nor, but, or, yet, so
 **Prepositions** – Prepositions express temporal or spatial relations
 **examples** : in, under, towards, before
