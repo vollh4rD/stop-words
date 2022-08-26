@@ -19,3 +19,4 @@ Text summarization- excluding stop words from contributing to summarization scor
 
 # run command 
 `python3 script.py -foo.txt`
+replace foo with the text file you want to remove stop words from 
