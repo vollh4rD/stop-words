@@ -1,6 +1,6 @@
 # stop-words 
 
-## Stop words can be used in a whole range of tasks and here are a few: 
+### Stop words can be used in a whole range of tasks and here are a few: 
 
 ### Supervised machine learning – removing stop words from the feature space 
 Clustering – removing stop words prior to generating clusters
