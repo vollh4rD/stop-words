@@ -8,7 +8,7 @@ Information retrieval – preventing stop words from being indexed
 Text summarization- excluding stop words from contributing to summarization scores & removing stop words when computing ROUGE scores
 
 ## Types of Stop Words ##
-**Determiners** – Determiners tend to mark nouns where a determiner usually will be followed by a noun \n
+**Determiners** – Determiners tend to mark nouns where a determiner usually will be followed by a noun
 **examples**: the, a, an, another
 
 **Coordinating conjunctions** – Coordinating conjunctions connect words, phrases, and clauses
