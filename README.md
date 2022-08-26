@@ -2,7 +2,7 @@
 
 ### Stop words can be used in a whole range of tasks and here are a few: 
 
- **Supervised machine learning** – removing stop words from the feature space 
+ **Supervised machine learning** – removing stop words from the feature space <br/>
 **Clustering** – removing stop words prior to generating clusters
 **Information retrieval** – preventing stop words from being indexed
 **Text summarization**- excluding stop words from contributing to summarization scores & removing stop words when computing ROUGE scores
