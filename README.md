@@ -16,3 +16,6 @@ Text summarization- excluding stop words from contributing to summarization scor
 
 **Prepositions** – Prepositions express temporal or spatial relations
 **examples** : in, under, towards, before
+
+# run command 
+`python3 script.py -foo.txt`
