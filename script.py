@@ -1,5 +1,3 @@
-
-
 import click
 import io 
 from nltk.corpus import stopwords 
